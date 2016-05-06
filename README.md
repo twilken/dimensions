@@ -1,3 +1,3 @@
 # Dimensions
 
-Displays the viewport dimensions.
+Displays the browsers viewport dimensions.
